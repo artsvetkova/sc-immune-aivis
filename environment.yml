@@ -1,0 +1,12 @@
+name: sc_immune
+dependencies:
+- python>=3.10
+- anaconda
+- pip
+- numpy=1.13.3
+- pip:
+  - pandas=2.3.3
+  - celltypist
+  - scanpy
+  - umap-learn
+  - cellxgene-census
