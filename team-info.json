@@ -1,0 +1,33 @@
+{
+    "team_name": "Four Degrees of Freedom",
+    "students": [
+        {
+            "student_id": "k11918551",
+            "first_name": "Shungo",
+            "last_name": "Ikeda",
+            "email": "k11918551@students.jku.at",
+            "github_user": "shn-ike"
+        },
+        {
+            "student_id": "k12527615",
+            "first_name": "Arina",
+            "last_name": "Tsvetkova",
+            "email": "k12527615@students.jku.at",
+            "github_user": "artsvetkova"
+        },
+        {
+            "student_id": "k12543580",
+            "first_name": "Mohamed",
+            "last_name": "Ebrahem",
+            "email": "k12543580@students.jku.at",
+            "github_user": "almaghawry23"
+        },
+        {
+            "student_id": "k12542768",
+            "first_name": "Florian",
+            "last_name": "Mertens",
+            "email": "k12542768@students.jku.at",
+            "github_user": "MertensFlo"
+        }
+    ]
+}

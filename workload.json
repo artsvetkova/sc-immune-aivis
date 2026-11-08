@@ -1,0 +1,25 @@
+{
+    "team_name": "Four Degrees of Freedom",
+    "students": [
+        {
+            "first_name": "Arina",
+            "last_name": "Tsvetkova",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Shungo",
+            "last_name": "Ikeda",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Florian",
+            "last_name": "Mertens",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Mohamed",
+            "last_name": "Ebrahem",
+            "workload": 0.25
+        }
+    ]
+} 
