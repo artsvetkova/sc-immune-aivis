@@ -1,12 +1,18 @@
 name: sc_immune
+channels: 
+  - conda-forge
 dependencies:
-- python>=3.10
-- anaconda
-- pip
-- numpy=1.13.3
-- pip:
-  - pandas=2.3.3
-  - celltypist
+  - python==3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
   - scanpy
   - umap-learn
-  - cellxgene-census
+  - nbformat>=4.2.0
+  - ipykernel
+  - matplotlib
+  - pip:
+    - celltypist
+    - cellxgene-census
