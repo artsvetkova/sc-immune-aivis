@@ -220,3 +220,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 ./parse_model_data.ipynb
+
+./umaps.ipynb
